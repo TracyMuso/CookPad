@@ -144,6 +144,11 @@ To run the project, execute the following command:
 - GitHub: [@TracyMuso](https://github.com/TracyMuso)
 - LinkedIn: [Tracy Musongole](https://www.linkedin.com/in/tracy-muso/)
 
+👤 **Kibirige John**
+- Github: [John-Kibrige](https://github.com/John-Kibirige)
+- Twitter: [kibirigejohn005](https://twitter.com/kibirigejohn005)
+- LinkedIn: [Kibirige John](https://www.linkedin.com/in/kibirigejohn005/)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
